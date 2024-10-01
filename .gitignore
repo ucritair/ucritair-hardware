@@ -1,0 +1,72 @@
+##KiCAD
+# Temporary files
+*.000
+*.bak
+*.bck
+*-backups
+*.kicad_pcb-bak
+*.kicad_prl
+*.sch-bak
+*~
+~$*.kicad_prl
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+#auto_saved_files#
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+#Altium history and preview files.
+History/
+__Previews/
+Project Logs for */
+Project Outputs*/
+*.schPreview
+*.PcbDoc.htm
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.PcbDoc.Zip
+*.PcbLib.Zip
+*.PrjPcb.Zip
+*.SchDoc.Zip
+*.SchLib.Zip
+debug.log
+
+#Eagle CAD backup files.
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
+
+#Derived 3D models.
+*.stl
+*.STL
+
+#3D printing G-code files.
+*.gcode
+
+#Solidworks temp files.
+~$*.sldprt
+~$*.SLDPRT
+~$*.sldasm
+~$*.SLDASM
+*.err
+
+#Libreoffice lock files.
+.~lock.*#
+
+#OSX metadata.
+*.DS_Store
+
+
+*.kicad_prl
