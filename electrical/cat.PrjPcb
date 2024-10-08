@@ -242,8 +242,8 @@ UniqueId=3C20899F-6426-4FF6-9783-A5AAF1E7FBFE
 Description=default_variant
 AllowFabrication=0
 ParameterCount=0
-VariationCount=15
-Variation1=Designator=C20|UniqueId=\PRJVDIFU|Kind=1|AlternatePart=
+VariationCount=19
+Variation1=Designator=C20|UniqueId=\PRJVDIFU|Kind=0|AlternatePart=
 Variation2=Designator=D11|UniqueId=\MCLDWJXW|Kind=1|AlternatePart=
 Variation3=Designator=J1|UniqueId=\PDKCRQTM|Kind=1|AlternatePart=
 Variation4=Designator=JP5|UniqueId=\JSRZFNFB|Kind=1|AlternatePart=
@@ -258,19 +258,23 @@ Variation12=Designator=JP15|UniqueId=\HZMKDEUU|Kind=1|AlternatePart=
 Variation13=Designator=JP13|UniqueId=\TPACVXAO|Kind=1|AlternatePart=
 Variation14=Designator=R39|UniqueId=\FGOSLWQI|Kind=1|AlternatePart=
 Variation15=Designator=C19|UniqueId=\GLMVDVZL|Kind=0|AlternatePart=
+Variation16=Designator=JP6|UniqueId=\AADRXIBD|Kind=1|AlternatePart=
+Variation17=Designator=JP5|UniqueId=\ODQCNZIJ|Kind=1|AlternatePart=
+Variation18=Designator=JP4|UniqueId=\YBEMWTSS|Kind=1|AlternatePart=
+Variation19=Designator=JP3|UniqueId=\CHIIWIYJ|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Client
-Value=Entropic Engineering
+Name=Revision
+Value=0.1
 
 [Parameter2]
 Name=Project
 Value=CAT
 
 [Parameter3]
-Name=Revision
-Value=0.1
+Name=Client
+Value=Entropic Engineering
 
 [DiffPairSuffix1]
 Positive=_+
@@ -1242,26 +1246,26 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
-Type154=0
+Type154=1
 
 [ERC Connection Matrix]
-L1=NNNNNNNNNNNWNNNWW
-L2=NNNNNNNWWWNWNWNWN
-L3=NNEENEEEENEWNEEWN
-L4=NNENNNWNENNWNENWN
-L5=NNNNNNNNNNNNNNNNN
-L6=NNENNNNEENNWNENWN
-L7=NNEWNNWEENNWNENWN
-L8=NWENNEENNEENNEENN
-L9=NWEENEENENEWNEEWW
-L10=NWNNNNNENNEWNNEWN
-L11=NNENNNNEEENWNENWN
-L12=WWWWNWWNWWWNWWWNN
-L13=NNNNNNNNNNNWNNNWW
-L14=NWEENEEEENEWNEEWW
-L15=NNENNNNEEENWNENWW
-L16=WWWWNWWNWWWNWWWNW
-L17=WNNNNNNNWNNNWWWWN
+L1=NNNNNNNNNNNWNNNWE
+L2=NNNNNNNWWWNWNWNWE
+L3=NNEENEEEENEWNEEWE
+L4=NNENNNWNENNWNENWE
+L5=NNNNNNNNNNNNNNNNE
+L6=NNENNNNEENNWNENWE
+L7=NNEWNNWEENNWNENWE
+L8=NWENNEENNEENNEENE
+L9=NWEENEENENEWNEEWE
+L10=NWNNNNNENNEWNNEWE
+L11=NNENNNNEEENWNENWE
+L12=WWWWNWWNWWWNWWWNE
+L13=NNNNNNNNNNNWNNNWE
+L14=NWEENEEEENEWNEEWE
+L15=NNENNNNEEENWNENWE
+L16=WWWWNWWNWWWNWWWNE
+L17=EEEEEEEEEEEEEEEEE
 
 [Annotate]
 SortOrder=1
