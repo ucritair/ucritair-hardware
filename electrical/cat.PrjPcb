@@ -32,6 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
@@ -1798,12 +1799,12 @@ ComponentUpdate56=1
 ComponentIsDeviceSheet56=0
 
 [NetInfos]
-Net1=NetName=+5V|NetColor=clLime
+Net1=NetName=+5V|NetColor=$006E6EFF
 Net2=NetName=+VBATT|NetColor=clFuchsia
 Net3=NetName=1.1V|NetColor=clLime
 Net4=NetName=3.3V|NetColor=$000099FF
 Net5=NetName=COEX_GNT|NetColor=clBlack
-Net6=NetName=GND|NetColor=$00434343
+Net6=NetName=GND|NetColor=$0000BE00
 Net7=NetName=VBAT|NetColor=$00FF0099
 Net8=NetName=VBUS|NetColor=clRed
 Net9=NetName=VLED|NetColor=clYellow
