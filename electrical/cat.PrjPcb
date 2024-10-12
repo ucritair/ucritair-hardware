@@ -260,6 +260,10 @@ Variation15=Designator=JP3|UniqueId=\CHIIWIYJ|Kind=1|AlternatePart=
 Variation16=Designator=R27|UniqueId=\DZZIKTRW|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for cat\Design Rule Check - cat.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Client
 Value=Entropic Engineering
