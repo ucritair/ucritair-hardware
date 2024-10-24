@@ -262,16 +262,16 @@ Variation16=Designator=R39|UniqueId=\FGOSLWQI|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Revision
-Value=0.2
+Name=Client
+Value=Entropic Engineering
 
 [Parameter2]
 Name=Project
 Value=CAT
 
 [Parameter3]
-Name=Client
-Value=Entropic Engineering
+Name=Revision
+Value=0.2
 
 [DiffPairSuffix1]
 Positive=_+
