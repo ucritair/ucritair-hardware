@@ -242,7 +242,7 @@ UniqueID=3C20899F-6426-4FF6-9783-A5AAF1E7FBFE
 Description=default_variant
 AllowFabrication=0
 ParameterCount=0
-VariationCount=17
+VariationCount=18
 Variation1=Designator=D11|UniqueId=\MCLDWJXW|Kind=1|AlternatePart= 
 Variation2=Designator=J1|UniqueId=\PDKCRQTM|Kind=1|AlternatePart= 
 Variation3=Designator=JP1|UniqueId=\JSRZFNFB|Kind=1|AlternatePart= 
@@ -260,6 +260,7 @@ Variation14=Designator=R21|UniqueId=\RWTNSIEK|Kind=1|AlternatePart=
 Variation15=Designator=R27|UniqueId=\DZZIKTRW|Kind=1|AlternatePart= 
 Variation16=Designator=R39|UniqueId=\FGOSLWQI|Kind=1|AlternatePart= 
 Variation17=Designator=R40|UniqueId=\JWLTVALZ|Kind=1|AlternatePart= 
+Variation18=Designator=R?|UniqueId=\GTFTFSAM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
