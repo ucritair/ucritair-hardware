@@ -1,0 +1,6 @@
+#Early prototypes
+case_prototypes/
+
+#Derived 3D models.
+*.step
+*.STEP
