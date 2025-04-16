@@ -1,0 +1,11 @@
+README
+
+This was a minor case revision to attempt to address some issues in the v1 case
+
+1) Enable printing of the buttons without support material
+2) Do away with the annoying stick out clips and their corresponding mating holes that never worked
+3) Make the part easier to print by changing the geometry in the air vent area.
+
+Known Issues
+1) It got a little bit bulkier and more boxy (not sure if this is good or bad)
+2) We now use 3d printing filament to retain the buttons - this got a bit finicky but does work with some persistance.
