@@ -1,0 +1,20 @@
+READ ME
+
+v22 change notes
+
+-fix the upper clips-FIXED
+-open side for battery cable-FIXED
+-rfid recess
+-middle screen rib-FIXED
+-screen alignment-FIXED
+-possibly add more venting over C02 sensor (min 1.5mm)-NOT NEEDED
+-beef up one button clip if needed-FIXED
+-open up holes in speaker -FIXED
+-reset button indicator-FIXED
+-slightly tighten nav button pierce-FIXED
+
+-tighten screen brackets-FIXED
+-add sim card support-FIXED
+
+
+
