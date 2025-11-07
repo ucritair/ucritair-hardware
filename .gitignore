@@ -48,9 +48,6 @@ debug.log
 *.s$?
 *.l$?
 
-#Derived 3D models.
-*.stl
-*.STL
 
 #3D printing G-code files.
 *.gcode
@@ -67,6 +64,4 @@ debug.log
 
 #OSX metadata.
 *.DS_Store
-
-
 *.kicad_prl
