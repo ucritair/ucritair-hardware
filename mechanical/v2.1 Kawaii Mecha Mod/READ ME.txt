@@ -1,0 +1,21 @@
+READ ME
+ 
+Sent 11/8/2025
+
+This folder contains:
+
+**UcritAir v8:
+Updated wider version if the uCritAir production design (as of 10/30/2025) It is wider, some unnecessary internal features were removed, fit of the buttons and epaper screen were improved, and an improvement to the seam fit was made. These changes are all reflected in the three additional mod versions also in this folder. Each of the mod versions uses the same buttons as this version, and two of the three also keep the same top half of the unit. You will notice duplicate files in each sub folder because of this. If using these step files to make changes to parts in the future, remember that they are used in multiple models.
+
+**UcritAir Crypto v7: 
+Re-designed to fit the Pimoroni Pico Plus 2 W pcb. There is an included internal "button guard" that protects the unused buttons on the pico plus from being pressed by the battery or other internal components. Shares a common top and buttons with the "UcritAir v8"
+
+**UcritAir Radio Int v3: 
+Designed to fit the RAK4631 WisBlock LoRaWAN Module + Wisblock Mini Base Board, an internal ble antenna, and an INTERNAL LoRa antenna. Both top and bottom are unique to this mod. Same buttons as "UcritAir v8"
+
+**UcritAir Radio Ext v1: 
+Designed to fit the RAK4631 WisBlock LoRaWAN Module + Wisblock Mini Base Board, an internal ble antenna, and an EXTERNAL LoRa antenna. Shares a common top and buttons with the "UcritAir v8"
+
+
+**Color Split files: 
+Each model's folder contains a "color split parts" subfolder. These "color split" versions have separate bodies in various areas on the outer surfaces of the unit that can be printed in a contrast color. These contain only the unit body pieces, not the buttons or the button guard. 
